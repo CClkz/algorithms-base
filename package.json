@@ -1,0 +1,20 @@
+{
+    "name": "algorithms-base",
+    "version": "1.0.0",
+    "description": "梳理常见的数据结构，掌握一些算法思路",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CClkz/algorithms-base.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CClkz/algorithms-base/issues"
+    },
+    "homepage": "https://github.com/CClkz/algorithms-base#readme"
+}
